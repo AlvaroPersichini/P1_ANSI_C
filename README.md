@@ -1,6 +1,6 @@
 <div style="display: flex;">
-  <img src="[URL_de_la_imagen_1](https://github.com/AlvaroPersichini/P1_ANSI_C/blob/master/Lenguaje-C.jpg)" alt="Descripción de la imagen 1" style="width: 50%;" />
-  <img src="[URL_de_la_imagen_2](https://github.com/AlvaroPersichini/P1_ANSI_C/blob/master/lenguajeC_pivoteo.jpg)" alt="Descripción de la imagen 2" style="width: 50%;" />
+  <img src="https://github.com/AlvaroPersichini/P1_ANSI_C/blob/master/Lenguaje-C.jpg" alt="Descripción de la imagen 1" style="width: 50%;" />
+  <img src="https://github.com/AlvaroPersichini/P1_ANSI_C/blob/master/lenguajeC_pivoteo.jpg" alt="Descripción de la imagen 2" style="width: 50%;" />
 </div>
 
 
